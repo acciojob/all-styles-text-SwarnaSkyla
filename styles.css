@@ -6,7 +6,8 @@
 	border-left:10px solid green;    
 	
 }
-.container>a{
+.container {
 	color:white;
+	text-decoration:underline;
 }
 /* Your CSS Code here. */
