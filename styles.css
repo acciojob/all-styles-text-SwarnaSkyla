@@ -1,2 +1,12 @@
-
+.container{
+	width:200px;
+	background-color:#800080;
+	padding:10px;
+	font-size:20px;
+	border-left:10px solid green;    
+	
+}
+.container>a{
+	color:white;
+}
 /* Your CSS Code here. */
